@@ -10,5 +10,4 @@ We will leverage these Resources
 * [Selenium](https://pypi.python.org/pypi/selenium)
 * [ChromeDriver - WebDriver for Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 * [Selenium-Python ReadTheDocs](http://selenium-python.readthedocs.io/)
-Fork from : 
-* [Selenium-Webscraping-Example](https://github.com/TheDancerCodes/Selenium-Webscraping-Example)
+* Fork from : [Selenium-Webscraping-Example](https://github.com/TheDancerCodes/Selenium-Webscraping-Example)
