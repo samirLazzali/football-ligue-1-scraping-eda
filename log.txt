@@ -1,0 +1,400 @@
+parsing init :  https://www.oddsportal.com/soccer/france/ligue-1/results/
+parse :  https://www.oddsportal.com/soccer/france/ligue-1/results/
+today
+2019/2020 page : 1 =>  50 games
+parse :  https://www.oddsportal.com/soccer/france/ligue-1/results/#/page/2/
+2019/2020 page : 2  =>  50 games
+total : 100
+parse :  https://www.oddsportal.com/soccer/france/ligue-1/results/#/page/3/
+2019/2020 page : 3  =>  7 games
+total : 107
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2018-2019/results/
+['Troyes', 'Lens']
+2019-05-24 16:00:00
+ET
+['Paris FC', 'Lens']
+2019-05-21 18:45:00
+pen.
+2018/2019 page : 1 =>  50 games
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2018-2019/results/#/page/2/
+2018/2019 page : 2  =>  50 games
+total : 207
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2018-2019/results/#/page/3/
+2018/2019 page : 3  =>  50 games
+total : 257
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2018-2019/results/#/page/4/
+2018/2019 page : 4  =>  50 games
+total : 307
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2018-2019/results/#/page/5/
+2018/2019 page : 5  =>  50 games
+total : 357
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2018-2019/results/#/page/6/
+2018/2019 page : 6  =>  50 games
+total : 407
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2018-2019/results/#/page/7/
+2018/2019 page : 7  =>  50 games
+total : 457
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2018-2019/results/#/page/8/
+2018/2019 page : 8  =>  34 games
+total : 491
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2017-2018/results/
+['AC Ajaccio', 'Le Havre']
+2018-05-20 17:00:00
+pen.
+2017/2018 page : 1 =>  50 games
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2017-2018/results/#/page/2/
+2017/2018 page : 2  =>  50 games
+total : 591
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2017-2018/results/#/page/3/
+2017/2018 page : 3  =>  50 games
+total : 641
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2017-2018/results/#/page/4/
+2017/2018 page : 4  =>  50 games
+total : 691
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2017-2018/results/#/page/5/
+2017/2018 page : 5  =>  50 games
+total : 741
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2017-2018/results/#/page/6/
+2017/2018 page : 6  =>  50 games
+total : 791
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2017-2018/results/#/page/7/
+2017/2018 page : 7  =>  50 games
+total : 841
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2017-2018/results/#/page/8/
+2017/2018 page : 8  =>  34 games
+total : 875
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2016-2017/results/
+2016/2017 page : 1 =>  50 games
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2016-2017/results/#/page/2/
+Skip this one, awarded between : Marseille and St Etienne
+2016/2017 page : 2  =>  49 games
+total : 974
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2016-2017/results/#/page/3/
+2016/2017 page : 3  =>  50 games
+total : 1024
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2016-2017/results/#/page/4/
+2016/2017 page : 4  =>  50 games
+total : 1074
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2016-2017/results/#/page/5/
+2016/2017 page : 5  =>  50 games
+total : 1124
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2016-2017/results/#/page/6/
+2016/2017 page : 6  =>  50 games
+total : 1174
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2016-2017/results/#/page/7/
+2016/2017 page : 7  =>  50 games
+total : 1224
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2016-2017/results/#/page/8/
+2016/2017 page : 8  =>  32 games
+total : 1256
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2015-2016/results/
+2015/2016 page : 1 =>  50 games
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2015-2016/results/#/page/2/
+2015/2016 page : 2  =>  50 games
+total : 1356
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2015-2016/results/#/page/3/
+2015/2016 page : 3  =>  50 games
+total : 1406
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2015-2016/results/#/page/4/
+2015/2016 page : 4  =>  50 games
+total : 1456
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2015-2016/results/#/page/5/
+2015/2016 page : 5  =>  50 games
+total : 1506
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2015-2016/results/#/page/6/
+2015/2016 page : 6  =>  50 games
+total : 1556
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2015-2016/results/#/page/7/
+2015/2016 page : 7  =>  50 games
+total : 1606
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2015-2016/results/#/page/8/
+Skip this one, strange odds 
+Skip this one, strange odds 
+Skip this one, strange odds 
+2015/2016 page : 8  =>  27 games
+total : 1633
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2014-2015/results/
+2014/2015 page : 1 =>  50 games
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2014-2015/results/#/page/2/
+2014/2015 page : 2  =>  50 games
+total : 1733
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2014-2015/results/#/page/3/
+2014/2015 page : 3  =>  50 games
+total : 1783
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2014-2015/results/#/page/4/
+2014/2015 page : 4  =>  50 games
+total : 1833
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2014-2015/results/#/page/5/
+2014/2015 page : 5  =>  50 games
+total : 1883
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2014-2015/results/#/page/6/
+2014/2015 page : 6  =>  50 games
+total : 1933
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2014-2015/results/#/page/7/
+2014/2015 page : 7  =>  50 games
+total : 1983
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2014-2015/results/#/page/8/
+2014/2015 page : 8  =>  30 games
+total : 2013
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2013-2014/results/
+2013/2014 page : 1 =>  50 games
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2013-2014/results/#/page/2/
+2013/2014 page : 2  =>  50 games
+total : 2113
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2013-2014/results/#/page/3/
+2013/2014 page : 3  =>  50 games
+total : 2163
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2013-2014/results/#/page/4/
+2013/2014 page : 4  =>  50 games
+total : 2213
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2013-2014/results/#/page/5/
+2013/2014 page : 5  =>  50 games
+total : 2263
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2013-2014/results/#/page/6/
+2013/2014 page : 6  =>  50 games
+total : 2313
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2013-2014/results/#/page/7/
+2013/2014 page : 7  =>  50 games
+total : 2363
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2013-2014/results/#/page/8/
+Skip this one, awarded between : Lyon and Nice
+2013/2014 page : 8  =>  29 games
+total : 2392
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2012-2013/results/
+2012/2013 page : 1 =>  50 games
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2012-2013/results/#/page/2/
+2012/2013 page : 2  =>  50 games
+total : 2492
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2012-2013/results/#/page/3/
+2012/2013 page : 3  =>  50 games
+total : 2542
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2012-2013/results/#/page/4/
+2012/2013 page : 4  =>  50 games
+total : 2592
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2012-2013/results/#/page/5/
+2012/2013 page : 5  =>  50 games
+total : 2642
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2012-2013/results/#/page/6/
+2012/2013 page : 6  =>  50 games
+total : 2692
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2012-2013/results/#/page/7/
+2012/2013 page : 7  =>  50 games
+total : 2742
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2012-2013/results/#/page/8/
+2012/2013 page : 8  =>  30 games
+total : 2772
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2011-2012/results/
+2011/2012 page : 1 =>  50 games
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2011-2012/results/#/page/2/
+2011/2012 page : 2  =>  50 games
+total : 2872
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2011-2012/results/#/page/3/
+2011/2012 page : 3  =>  50 games
+total : 2922
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2011-2012/results/#/page/4/
+2011/2012 page : 4  =>  50 games
+total : 2972
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2011-2012/results/#/page/5/
+2011/2012 page : 5  =>  50 games
+total : 3022
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2011-2012/results/#/page/6/
+2011/2012 page : 6  =>  50 games
+total : 3072
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2011-2012/results/#/page/7/
+2011/2012 page : 7  =>  50 games
+total : 3122
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2011-2012/results/#/page/8/
+2011/2012 page : 8  =>  30 games
+total : 3152
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2010-2011/results/
+2010/2011 page : 1 =>  50 games
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2010-2011/results/#/page/2/
+2010/2011 page : 2  =>  50 games
+total : 3252
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2010-2011/results/#/page/3/
+2010/2011 page : 3  =>  50 games
+total : 3302
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2010-2011/results/#/page/4/
+2010/2011 page : 4  =>  50 games
+total : 3352
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2010-2011/results/#/page/5/
+2010/2011 page : 5  =>  50 games
+total : 3402
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2010-2011/results/#/page/6/
+2010/2011 page : 6  =>  50 games
+total : 3452
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2010-2011/results/#/page/7/
+2010/2011 page : 7  =>  50 games
+total : 3502
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2010-2011/results/#/page/8/
+2010/2011 page : 8  =>  30 games
+total : 3532
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2009-2010/results/
+2009/2010 page : 1 =>  50 games
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2009-2010/results/#/page/2/
+2009/2010 page : 2  =>  50 games
+total : 3632
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2009-2010/results/#/page/3/
+Skip this one, strange odds 
+2009/2010 page : 3  =>  49 games
+total : 3681
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2009-2010/results/#/page/4/
+2009/2010 page : 4  =>  50 games
+total : 3731
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2009-2010/results/#/page/5/
+2009/2010 page : 5  =>  50 games
+total : 3781
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2009-2010/results/#/page/6/
+Skip this one, strange odds 
+2009/2010 page : 6  =>  49 games
+total : 3830
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2009-2010/results/#/page/7/
+Skip this one, strange odds 
+2009/2010 page : 7  =>  49 games
+total : 3879
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2009-2010/results/#/page/8/
+2009/2010 page : 8  =>  30 games
+total : 3909
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2008-2009/results/
+2008/2009 page : 1 =>  50 games
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2008-2009/results/#/page/2/
+2008/2009 page : 2  =>  50 games
+total : 4009
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2008-2009/results/#/page/3/
+2008/2009 page : 3  =>  50 games
+total : 4059
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2008-2009/results/#/page/4/
+2008/2009 page : 4  =>  50 games
+total : 4109
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2008-2009/results/#/page/5/
+2008/2009 page : 5  =>  50 games
+total : 4159
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2008-2009/results/#/page/6/
+2008/2009 page : 6  =>  50 games
+total : 4209
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2008-2009/results/#/page/7/
+2008/2009 page : 7  =>  50 games
+total : 4259
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2008-2009/results/#/page/8/
+2008/2009 page : 8  =>  30 games
+total : 4289
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2007-2008/results/
+2007/2008 page : 1 =>  50 games
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2007-2008/results/#/page/2/
+2007/2008 page : 2  =>  50 games
+total : 4389
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2007-2008/results/#/page/3/
+2007/2008 page : 3  =>  50 games
+total : 4439
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2007-2008/results/#/page/4/
+2007/2008 page : 4  =>  50 games
+total : 4489
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2007-2008/results/#/page/5/
+2007/2008 page : 5  =>  50 games
+total : 4539
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2007-2008/results/#/page/6/
+2007/2008 page : 6  =>  50 games
+total : 4589
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2007-2008/results/#/page/7/
+2007/2008 page : 7  =>  50 games
+total : 4639
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2007-2008/results/#/page/8/
+2007/2008 page : 8  =>  30 games
+total : 4669
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2006-2007/results/
+Skip this one, awarded between : Nancy and Sochaux
+2006/2007 page : 1 =>  49 games
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2006-2007/results/#/page/2/
+2006/2007 page : 2  =>  50 games
+total : 4768
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2006-2007/results/#/page/3/
+2006/2007 page : 3  =>  50 games
+total : 4818
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2006-2007/results/#/page/4/
+2006/2007 page : 4  =>  50 games
+total : 4868
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2006-2007/results/#/page/5/
+Skip this one, strange odds 
+2006/2007 page : 5  =>  49 games
+total : 4917
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2006-2007/results/#/page/6/
+2006/2007 page : 6  =>  50 games
+total : 4967
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2006-2007/results/#/page/7/
+2006/2007 page : 7  =>  50 games
+total : 5017
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2006-2007/results/#/page/8/
+2006/2007 page : 8  =>  30 games
+total : 5047
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2005-2006/results/
+Skip this one, strange odds 
+2005/2006 page : 1 =>  49 games
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2005-2006/results/#/page/2/
+2005/2006 page : 2  =>  50 games
+total : 5146
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2005-2006/results/#/page/3/
+2005/2006 page : 3  =>  50 games
+total : 5196
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2005-2006/results/#/page/4/
+2005/2006 page : 4  =>  50 games
+total : 5246
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2005-2006/results/#/page/5/
+2005/2006 page : 5  =>  50 games
+total : 5296
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2005-2006/results/#/page/6/
+2005/2006 page : 6  =>  50 games
+total : 5346
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2005-2006/results/#/page/7/
+2005/2006 page : 7  =>  50 games
+total : 5396
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2005-2006/results/#/page/8/
+2005/2006 page : 8  =>  30 games
+total : 5426
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2004-2005/results/
+2004/2005 page : 1 =>  50 games
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2004-2005/results/#/page/2/
+2004/2005 page : 2  =>  50 games
+total : 5526
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2004-2005/results/#/page/3/
+2004/2005 page : 3  =>  50 games
+total : 5576
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2004-2005/results/#/page/4/
+2004/2005 page : 4  =>  50 games
+total : 5626
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2004-2005/results/#/page/5/
+2004/2005 page : 5  =>  50 games
+total : 5676
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2004-2005/results/#/page/6/
+2004/2005 page : 6  =>  50 games
+total : 5726
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2004-2005/results/#/page/7/
+2004/2005 page : 7  =>  50 games
+total : 5776
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2004-2005/results/#/page/8/
+2004/2005 page : 8  =>  27 games
+total : 5803
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2003-2004/results/
+2003/2004 page : 1 =>  50 games
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2003-2004/results/#/page/2/
+2003/2004 page : 2  =>  50 games
+total : 5903
+parse :  https://www.oddsportal.com/soccer/france/ligue-1-2003-2004/results/#/page/3/
+2003/2004 page : 3  =>  50 games
+total : 5953
+                  date       day  hours  ...     season       team_a    team_b
+0  2019-10-26 18:00:00  Saturday  18:00  ...  2019/2020        Brest     Dijon
+1  2019-10-26 18:00:00  Saturday  18:00  ...  2019/2020         Lyon      Metz
+2  2019-10-26 18:00:00  Saturday  18:00  ...  2019/2020  Montpellier    Angers
+3  2019-10-26 18:00:00  Saturday  18:00  ...  2019/2020        Reims     Nimes
+4  2019-10-26 18:00:00  Saturday  18:00  ...  2019/2020   Strasbourg      Nice
+..                 ...       ...    ...  ...        ...          ...       ...
+45 2004-02-14 18:00:00  Saturday  18:00  ...  2003/2004       Monaco     Lille
+46 2004-02-14 18:00:00  Saturday  18:00  ...  2003/2004  Montpellier      Metz
+47 2004-02-14 18:00:00  Saturday  18:00  ...  2003/2004       Nantes      Nice
+48 2004-02-14 18:00:00  Saturday  18:00  ...  2003/2004     Toulouse  Paris SG
+49 2004-02-14 15:15:00  Saturday  15:15  ...  2003/2004      Sochaux  Bordeaux
+
+[5953 rows x 14 columns]
+/home/sam/Documents/cours/python/football-ligue-1-scraping-eda-master/exctract.csv
+Scraping done in :  150.854207 s
+exit
