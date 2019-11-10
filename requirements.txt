@@ -1,2 +1,7 @@
 selenium
 bs4
+seaborn
+scipy
+statsmodels
+matplotlib
+pandas

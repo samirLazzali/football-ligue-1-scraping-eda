@@ -113,20 +113,11 @@ def parseTable(tournament_tbl_soup):
                 # TODO je recupere aussi les ET et pen. ? 
             else : 
                 score_b = int(score[1])
-            outcome_effectif = 'HOME'
-            if(score_b > score_a):
-                outcome_effectif = 'AWAY'
-            elif(score_b == score_a) :
-                outcome_effectif = 'DRAW'
-
+          
             odds_a = cols[3].find('a').text
             odds_draw = cols[4].find('a').text
             odds_b = cols[5].find('a').text
-            
-            min_index = [odds_a, odds_b, odds_draw].index(min([odds_a, odds_b, odds_draw]))
-            outcome_odds = ['HOME', 'AWAY', 'DRAW'][min_index]
-            prediction_odds = 1 if outcome_odds == outcome_effectif else 0    
-            row_data = [date, hours_str, team_a, team_b, score_a, score_b, odds_a, odds_b, odds_draw, outcome_effectif, outcome_odds, prediction_odds ,date.strftime("%A")]
+            row_data = [date, hours_str, team_a, team_b, score_a, score_b, odds_a, odds_b, odds_draw, date.strftime("%A")]
             data.append(row_data)
     return data 
 
@@ -172,7 +163,7 @@ def main():
     seasons_html = browser.find_element_by_class_name('main-menu2.main-menu-gray').get_attribute("innerHTML")
     seasons_soup = BeautifulSoup(seasons_html, "html.parser")
     seasons_url = getSeasonsUrl(seasons_soup)
-    columns = ['date', 'hours', 'team_a', 'team_b', 'score_a', 'score_b', 'odds_a', 'odds_b', 'odds_draw', 'outcome_effectif','outcome_odds', 'prediction_odds', 'day']
+    columns = ['date', 'hours', 'team_a', 'team_b', 'score_a', 'score_b', 'odds_a', 'odds_b','odds_draw', 'day']
     df = pd.DataFrame([], columns = columns) 
     for (season_name,season_url) in seasons_url.items():
         print('parse : ',season_url)
